@@ -1,1 +1,1 @@
-worker: python hansard_watcher.py
+web: python dirapp.py
